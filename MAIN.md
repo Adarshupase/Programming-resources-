@@ -1,4 +1,4 @@
-** Blogs **
+**Blogs**
 maskray: https://maskray.me/
 mostly about linkers
 
